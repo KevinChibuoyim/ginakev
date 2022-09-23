@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/ginakev/Fair-Giveaway
+- 🔭 I’m currently working on [Fair Giveaway](https://github.com/ginakev/Fair-Giveaway)
 - 🌱 I’m currently learning Solidity, Typescript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: twitter.com/kevin_chibuoyim
+- 👯 I’m Open for collaborations.
+- 🤔 I’m Open to Learning.
+- 📫 How to reach me: [Kevin Chibuoyim](https://twitter.com/kevin_chibuoyim)
 - 😄 Pronouns: He
 - ⚡ Fav Quote: Build In Public
+- reach me faster: [Kevin Chibuoyim](https://twitter.com/kevin_chibuoyim)
 -->
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginakev&show_icons=true&count_private=true&theme=merko)
