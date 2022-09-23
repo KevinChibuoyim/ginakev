@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fav Quote: Build In Public
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginakev&theme=radical)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginakev&show_icons=true&count_private=true&theme=merko)
