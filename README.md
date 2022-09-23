@@ -15,8 +15,8 @@
 - 🤔 Open to Learning.
 - 👯 I’m Open for collaborations.
 - 🔗 Reach me on Twitter: [Kevin Chibuoyim](https://twitter.com/kevin_chibuoyim)
-- 🔗 Reach me on LinkedIn: [Okoye Kevin Chibuoyim] (https://linkedin.com/in/kevin-chibuoyim)
+- 🔗 Reach me on LinkedIn: [Okoye Kevin Chibuoyim](https://linkedin.com/in/kevin-chibuoyim)
 - 🔗 Reach me on Facebook: [Okoye Kevin Chibuoyim](https://facebook.com/kevin.okoye.14)
-- 📬 Reach me via Mail: ***kevinchibuoyim@gmail.com
+- 📫 Reach me via Mail: kevinchibuoyim@gmail.com
 - 😄 Pronoun: He
 - ⚡ Fav Quote: Build In Public
