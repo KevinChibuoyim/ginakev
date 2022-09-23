@@ -10,8 +10,8 @@
 
 ### Welcome👋
 
-- 🔭 Currently working on [Fair Giveaway](https://github.com/ginakev/Fair-Giveaway)
-- 🌱 Currently learning and Studying Solidity, Typescript and advancing in the Blockchain Development path.
+- 🔭 Currently building and grooming Devs at [BlockchainUNN](https://github.com/orgs/BlockchainUNN).
+- 🌱 Currently learning and studying Solidity, Typescript and advancing in the Web3/Blockchain Development path.
 - 🤔 Open to Learning.
 - 👯 I’m Open for collaborations.
 - 🔗 Reach me on Twitter: [Kevin Chibuoyim](https://twitter.com/kevin_chibuoyim)
