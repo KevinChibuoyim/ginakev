@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginakev&show_icons=true&count_private=true&theme=merko)
+
+https://github-readme-streak-stats.herokuapp.com/?user=ginakev&count_private=true&theme=radical
